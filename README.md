@@ -3,8 +3,8 @@
 
 ## 资源分享
 
-1. [**计算传播基础讲义**](https://chengjun.github.io/mybook)线上图书 
-2. [苏格拉底学园](https://github.com/SocratesAcademy/)Github页面
+1. [计算传播基础讲义](https://chengjun.github.io/mybook)**线上图书**
+2. [苏格拉底学园](https://github.com/SocratesAcademy/)**Github页面**
 
 
 ## 实验室公开活动
