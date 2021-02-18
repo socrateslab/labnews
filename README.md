@@ -1,6 +1,10 @@
 
 **苏格拉底实验室**（The Socrates Lab）是南京大学新闻新闻传播学院王成军老师所领导的一个虚拟研究团队，主要成员包括王成军、他的学生以及其他合作者。
 
+## 实验室进展
+
+1. **Wang C.J.** * , Zhu, J.J.H.(2021) Jumping over the Network Threshold of Information Diffusion: Testing the Threshold Hypothesis of Social Influence. [Internet Research](https://www.emerald.com/insight/content/doi/10.1108/INTR-08-2019-0313/full/html). [doi:10.1108/INTR-08-2019-0313](https://doi.org/10.1108/INTR-08-2019-0313)
+
 ## 资源分享
 
 1. [计算传播基础讲义](https://chengjun.github.io/mybook)**线上图书**
